@@ -1,5 +1,3 @@
 
 
-*.CSS linguist-language=PHP
-*.javaScript linguist-language=PHP
-*.JavaScript linguist-language=PHP
+*.js linguist-language=PHP
